@@ -8,3 +8,4 @@
   - [Plot Like A Pro - Histograms](https://youtu.be/WfTtzG279QE?si=Q53V0PD76J-Lpp_y)
   - [Plot Like A Pro - Box Plots](https://youtu.be/TSZ3F57j4Iw?si=1NoH_5C6VFNj_zA5)
   - [Plot Like A Pro - Heatmaps](https://youtu.be/OaTbcNy42vQ?si=sB9OzpIq4B_p288z)
+  - [Plot Like A Pro - Count Plots](https://youtu.be/GmbEYFAiRH0?si=p2kXaVhARS2KCjxv)
